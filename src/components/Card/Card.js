@@ -3,7 +3,7 @@ import "./card.css";
 
 export default function Card() {
   return (
-    <div className="w-[22rem] bg-white text-black rounded-lg border-2 relative">
+    <div className="text-center w-full lg:w-[22rem] bg-white text-black rounded-lg border-2 relative">
       <div className="ribbon ribbon-top-left">
         <span>LIVE</span>
       </div>
