@@ -4,7 +4,7 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar/Navbar";
 function App() {
   return (
-    <div className="sc-eDLKkx eTbKOW !px-40">
+    <div className="sc-eDLKkx eTbKOW !px-0 text-center  lg:!px-40">
       <Navbar />
 
       <div className="my-40 flex justify-between flex-wrap">
